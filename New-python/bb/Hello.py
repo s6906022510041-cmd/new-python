@@ -1,0 +1,7 @@
+print("Hello")
+print("Sorawit")
+print("I'm")
+print('GG"FF')
+print("'Sorawit'\"gjgjgjgj\"")
+print('/\\')
+print('ไทย')
