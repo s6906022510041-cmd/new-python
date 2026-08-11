@@ -1,0 +1,57 @@
+<mxfile host="65bd71144e">
+    <diagram id="yMyZa3bBF_zjzHh65Dmn" name="Page-1">
+        <mxGraphModel dx="610" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-3" edge="1" parent="1" source="cXhIk5TSb4U-HaaOAe_4-1" style="edgeStyle=none;html=1;" target="cXhIk5TSb4U-HaaOAe_4-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;start&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="70" width="155" x="348" y="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-10" edge="1" parent="1" source="cXhIk5TSb4U-HaaOAe_4-2" style="edgeStyle=none;html=1;" target="cXhIk5TSb4U-HaaOAe_4-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 80%;&quot;&gt;Display message:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 80%;&quot;&gt;&quot;Eter windth of the Rectangle:&quot;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="150" x="350" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-11" edge="1" parent="1" source="cXhIk5TSb4U-HaaOAe_4-4" style="edgeStyle=none;html=1;" target="cXhIk5TSb4U-HaaOAe_4-6" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-4" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Read width iput" vertex="1">
+                    <mxGeometry height="70" width="140" x="350" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="Calculate area: area = width * height" vertex="1">
+                    <mxGeometry height="60" width="148" x="350" y="690" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-12" edge="1" parent="1" source="cXhIk5TSb4U-HaaOAe_4-6" style="edgeStyle=none;html=1;entryX=0.5;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" target="cXhIk5TSb4U-HaaOAe_4-7" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="420" y="560" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 80%;&quot;&gt;Display message:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 80%;&quot;&gt;&quot;Eter Heiggh of the Rectangle:&quot;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="150" x="348" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-13" edge="1" parent="1" source="cXhIk5TSb4U-HaaOAe_4-7" style="edgeStyle=none;html=1;" target="cXhIk5TSb4U-HaaOAe_4-5" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-7" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Read width iput" vertex="1">
+                    <mxGeometry height="70" width="140" x="350" y="550" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;End&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="70" width="155" x="350" y="940" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 80%;&quot;&gt;Display message:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 80%;&quot;&gt;&quot;The area of thr rectangle is&quot;,area&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="150" x="348" y="810" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-15" edge="1" parent="1" source="cXhIk5TSb4U-HaaOAe_4-9" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="cXhIk5TSb4U-HaaOAe_4-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cXhIk5TSb4U-HaaOAe_4-16" edge="1" parent="1" source="cXhIk5TSb4U-HaaOAe_4-5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="cXhIk5TSb4U-HaaOAe_4-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="eiguTOB7leKeTuq6Uquv" name="Page-1">
+        <mxGraphModel dx="613" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="axNemcIy2nZuYlK8YARH-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="start" vertex="1">
+                    <mxGeometry height="60" width="100" x="154" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-2" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="Read input sting form the user" vertex="1">
+                    <mxGeometry height="60" width="100" x="154" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Define viwels as &quot;aeiwAEICU&quot;&amp;nbsp;" vertex="1">
+                    <mxGeometry height="100" width="100" x="154" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="lnitiale an empty sting of the result" vertex="1">
+                    <mxGeometry height="100" width="100" x="154" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="move cgaracters in sting ?" vertex="1">
+                    <mxGeometry height="100" width="100" x="154" y="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="print thr modifined sting" vertex="1">
+                    <mxGeometry height="60" width="100" x="154" y="630" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="end" vertex="1">
+                    <mxGeometry height="60" width="100" x="154" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Corwert charactes to uppecase" vertex="1">
+                    <mxGeometry height="100" width="100" x="434" y="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="is character a bowel ?" vertex="1">
+                    <mxGeometry height="100" width="100" x="434" y="630" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="add the uppcase charcter charater to ythe result" vertex="1">
+                    <mxGeometry height="100" width="100" x="434" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="axNemcIy2nZuYlK8YARH-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="add an asterisk ot the result" vertex="1">
+                    <mxGeometry height="100" width="100" x="630" y="630" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
